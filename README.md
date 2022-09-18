@@ -1,6 +1,6 @@
-QR Code Generator
+# QR Code Generator
 
-Input a URL link to generate and download QR code.
+### Input a URL link to generate and download QR code.
 
 
 Resources:
