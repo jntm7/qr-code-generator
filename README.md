@@ -2,8 +2,9 @@
 
 ### Input a URL link to generate and download QR code.
 
+---
 
-Resources:
+## Resources:
 
 https://tailwindcss.com/
 
